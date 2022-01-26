@@ -2,11 +2,12 @@
 Analysis of AntennaPod database
 
 # Usage
-
-`git copy` the repository and place the exported database file as `"AntennaPodBackup.db"` in the directory above the git repository. Otherwise you need to change the code. Future file-opening dialogue is in planning.
+Run `python app.py` and open your browser on `localhost:8050`.
 
 # To Do
-- [ ] "Open file" dialogue to pick individual files
-- [ ] Get [dash](https://dash.plotly.com/) or something else going
+- [x] "Open file" dialogue to pick individual files
+        - improvement necessary!
+- [x] Get [dash](https://dash.plotly.com/) or something else going
+        - improvement necessary!
 - [ ] Pack everything to a useful package
 - [ ] Research possibilities to integrate it in AntennaPod directly
