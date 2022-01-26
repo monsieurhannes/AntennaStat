@@ -1,4 +1,4 @@
-# antenna-stat
+# AntennaStat
 Analysis of AntennaPod database
 
 # Usage
